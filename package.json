@@ -9,5 +9,26 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
-  }
+  },
+  "name": "awesome-books-es6",
+  "description": "- [📖 About the Project](#about-project)   - [🛠 Built With](#built-with)     - [Tech Stack](#tech-stack)     - [Key Features](#key-features)   - [🚀 Live Demo](#live-demo) - [💻 Getting Started](#getting-started) - [Setup](#setup)   - [Prerequisites](#prerequisites)   - [Install](#install)   - [Usage](#usage)   - [Deployment](#deployment) - [👥 Authors](#authors)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies":{
+    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojo987N/awesome-books-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojo987N/awesome-books-es6/issues"
+  },
+  "homepage": "https://github.com/jojo987N/awesome-books-es6#readme"
 }
