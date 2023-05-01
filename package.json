@@ -14,10 +14,12 @@
   "description": "- [📖 About the Project](#about-project)   - [🛠 Built With](#built-with)     - [Tech Stack](#tech-stack)     - [Key Features](#key-features)   - [🚀 Live Demo](#live-demo) - [💻 Getting Started](#getting-started) - [Setup](#setup)   - [Prerequisites](#prerequisites)   - [Install](#install)   - [Usage](#usage)   - [Deployment](#deployment) - [👥 Authors](#authors)",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies":{
-    
+  "dependencies": {
+    "@web/dev-server": "^0.2.1",
+    "luxon": "^3.3.0"
   },
   "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
