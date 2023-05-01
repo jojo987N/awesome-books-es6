@@ -1,4 +1,4 @@
-import { DateTime } from 'luxon';
+import { DateTime } from './node_modules/luxon/src/luxon.js';
 import Store from './modules/store.js';
 import List from './modules/list.js';
 import AddNew from './modules/addNew.js';
